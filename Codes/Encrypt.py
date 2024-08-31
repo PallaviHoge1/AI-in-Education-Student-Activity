@@ -19,7 +19,7 @@ logging.basicConfig(
 )
 
 Role = "Teacher"
-Name = "Name"
+Name = "nName"
 KEY_PATH = f"..//Keys//{Role}//{Name}//secret.key"
 
 # Function to generate a key and save it into a file

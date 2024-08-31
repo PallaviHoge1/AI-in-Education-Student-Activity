@@ -8,3 +8,13 @@
 2024-08-31 22:40:46,195 - INFO - Password encrypted successfully.
 2024-08-31 22:40:46,195 - INFO - Encryption key loaded successfully.
 2024-08-31 22:40:46,196 - INFO - Password decrypted successfully.
+2024-08-31 22:45:32,606 - INFO - Encryption key generated and saved successfully.
+2024-08-31 22:45:32,610 - INFO - Encryption key loaded successfully.
+2024-08-31 22:45:32,612 - INFO - Password encrypted successfully.
+2024-08-31 22:45:32,612 - INFO - Encryption key loaded successfully.
+2024-08-31 22:45:32,612 - INFO - Password decrypted successfully.
+2024-08-31 22:48:10,578 - INFO - Encryption key generated and saved successfully.
+2024-08-31 22:48:10,583 - INFO - Encryption key loaded successfully.
+2024-08-31 22:48:10,584 - INFO - Password encrypted successfully.
+2024-08-31 22:48:10,585 - INFO - Encryption key loaded successfully.
+2024-08-31 22:48:10,585 - INFO - Password decrypted successfully.
