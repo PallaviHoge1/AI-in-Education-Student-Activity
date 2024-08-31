@@ -33,11 +33,8 @@ By integrating AI and data-driven methodologies, this project aims to enhance ed
 
 
 # How to Setup and use [Developer's Guide]:
-Here’s how you can document the usage of your recent encryption setup in the "How to Use" section of your GitHub repository. This will include instructions for using `encrypt.py` for password encryption and configuring the application with `configparser`.
 
-### How to Use
-
-#### Encrypting Passwords
+### Encrypting Passwords
 
 
 1. **Encrypt Your Password:**
