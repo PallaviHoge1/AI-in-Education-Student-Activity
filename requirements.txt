@@ -16,3 +16,8 @@ torch
 torchvision
 torchaudio
 farm-haystack[inference]
+Flask 
+Flask-Login 
+Flask-Bcrypt 
+Flask-SQLAlchemy
+cryptography
