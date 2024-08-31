@@ -1,4 +1,4 @@
-### Summary of the AI-Enabled School Education System
+# Summary of the AI-Enabled School Education System
 
 **Objective:**
 The goal of the project is to develop an AI-enabled education system as a proof of concept for Class 1 in a primary school setting. The aim is to enhance educational outcomes using data-driven insights and AI-powered tools.
@@ -30,3 +30,26 @@ The goal of the project is to develop an AI-enabled education system as a proof 
    - **Learning Needs:** Specific requirements for each student to address their learning gaps, which guide the creation of customized lesson plans.
 
 By integrating AI and data-driven methodologies, this project aims to enhance educational quality and provide personalized learning experiences, thereby improving educational outcomes for students.
+
+
+# How to Setup and use [Developer's Guide]:
+Here’s how you can document the usage of your recent encryption setup in the "How to Use" section of your GitHub repository. This will include instructions for using `encrypt.py` for password encryption and configuring the application with `configparser`.
+
+### How to Use
+
+#### Encrypting Passwords
+
+
+1. **Encrypt Your Password:**
+   - Open your terminal and navigate to the directory containing `encrypt.py`.
+   - Run the following command to encrypt your password:
+
+     ```bash
+     python encrypt.py
+     ```
+
+   - Follow the prompts to enter the password you want to encrypt.
+   - The script will generate an encrypted password and save it to the specified file.
+
+2. **Decrypt Your Password:**
+   - To decrypt a password, use the same script with the appropriate decryption command. Make sure you provide the correct encryption file and password.
