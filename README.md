@@ -34,10 +34,64 @@ By integrating AI and data-driven methodologies, this project aims to enhance ed
 
 # How to Setup and use [Developer's Guide]:
 
+Sure! Here’s an updated "How to Use" section that includes instructions for setting up the Python environment, creating a virtual environment, and installing requirements:
+
+### How to Use
+
+### Python Setup
+
+1. **Ensure Python 3.10 is Installed:**
+   - Verify that you have Python 3.10 installed on your system. You can check the version by running:
+
+     ```bash
+     python3.10 --version
+     ```
+
+   - If Python 3.10 is not installed, download and install it from the [official Python website](https://www.python.org/downloads/release/python-3100/).
+
+### Setting Up the Virtual Environment
+
+2. **Create a Virtual Environment:**
+   - Navigate to the directory where your project is located.
+   - Create a virtual environment named `.venv` by running:
+
+     ```bash
+     python3.10 -m venv .venv
+     ```
+
+   - This command will create a virtual environment in a directory named `.venv` within your project directory.
+
+3. **Activate the Virtual Environment:**
+   - On **Windows**, activate the virtual environment using:
+
+     ```bash
+     .venv\Scripts\activate
+     ```
+
+   - On **macOS/Linux**, activate it using:
+
+     ```bash
+     source .venv/bin/activate
+     ```
+
+   - After activation, your terminal prompt should indicate that you are now working within the virtual environment.
+
+### Installing Project Dependencies
+
+4. **Install Required Packages:**
+   - Ensure that your virtual environment is activated.
+   - Install the necessary packages listed in `requirements.txt` by running:
+
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+   - This command will install all the dependencies required for your project as specified in the `requirements.txt` file.
+
 ### Encrypting Passwords
 
 
-1. **Encrypt Your Password:**
+5. **Encrypt Your Password:**
    - Open your terminal and navigate to the directory containing `encrypt.py`.
    - Run the following command to encrypt your password:
 
@@ -48,5 +102,5 @@ By integrating AI and data-driven methodologies, this project aims to enhance ed
    - Follow the prompts to enter the password you want to encrypt.
    - The script will generate an encrypted password and save it to the specified file.
 
-2. **Decrypt Your Password:**
+6. **Decrypt Your Password:**
    - To decrypt a password, use the same script with the appropriate decryption command. Make sure you provide the correct encryption file and password.
