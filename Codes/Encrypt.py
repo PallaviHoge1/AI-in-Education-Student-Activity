@@ -18,7 +18,7 @@ logging.basicConfig(
     ]
 )
 
-Role = "Student"
+Role = "Teacher"
 Name = "Name"
 KEY_PATH = f"..//Keys//{Role}//{Name}//secret.key"
 
