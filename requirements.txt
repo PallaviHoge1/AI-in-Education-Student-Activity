@@ -21,3 +21,5 @@ Flask-Login
 Flask-Bcrypt 
 Flask-SQLAlchemy
 cryptography
+Flask-MySQL 
+mysql-connector-python

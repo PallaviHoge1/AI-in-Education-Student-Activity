@@ -1,3 +1,12 @@
 .venv
 __pycache__
 .ipynb_checkpoints
+test.ipynb
+Raw
+
+# Ignore specific files in the Codes folder
+/Codes/insert_role.py
+/Codes/insert_students.py
+/Codes/insert_student_activity.py
+/Codes/insert_teacher.py
+/Codes/insert_teacher_activity.py

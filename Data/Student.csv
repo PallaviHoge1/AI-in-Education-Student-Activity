@@ -1,0 +1,61 @@
+User_Id,Name,StudentID,DOB,Gender,Fathers_Name,Fathers_Education,Fathers_Occupation,Mothers_Name,Mothers_Education,Mothers_Occupation,Language
+10001,Zara Singh,1,12-09-2017,Female,Rajesh Singh,Diploma,Assistant,Priya Singh,Bachelor's Degree,Accountant,Hindi
+10036,Nirav Sharma,2,25-11-2016,Male,Vijay Sharma,Bachelor's Degree,Teacher,Anjali Sharma,8th Grade Pass,Housewife,Hindi
+13248,Arjun Singh,3,03-08-2015,Male,Mohan Singh,Diploma,Technician,Meera Singh,Diploma,Assistant,Hindi
+13701,Sneha Mehta,4,18-04-2016,Female,Rakesh Mehta,12th Grade Pass,Receptionist,Ritu Mehta,Master's Degree,Senior Engineer,Hindi
+14653,Diya Kapoor,5,09-03-2017,Female,Sanjay Kapoor,Bachelor's Degree,Teacher,Nisha Kapoor,8th Grade Pass,Housewife,Hindi
+15242,Sana Khan,6,07-12-2016,Female,Arif Khan,10th Grade Pass,Storekeeper,Sara Khan,10th Grade Pass,Storekeeper,Hindi
+15368,Ishaan Rao,7,21-05-2017,Male,Pradeep Rao,MBA,Business Analyst,Deepa Rao,8th Grade Pass,Housewife,Hindi
+15407,Jaya Desai,8,14-08-2016,Female,Anil Desai,8th Grade Pass,Farmer,Lata Desai,Bachelor's Degree,Teacher,Hindi
+16970,Ishita Dutta,9,28-12-2015,Female,Suresh Dutta,12th Grade Pass,Salesperson,Kavita Dutta,Bachelor's Degree,Engineer,Hindi
+18079,Tanmay Bhatt,10,15-02-2017,Male,Mahesh Bhatt,10th Grade Pass,Laborer,Pooja Bhatt,Master's Degree,Manager,Hindi
+18233,Aditi Patel,11,05-10-2016,Female,Vikas Patel,Diploma,Assistant,Neha Patel,Bachelor's Degree,Engineer,Hindi
+19262,Pranav Joshi,12,23-06-2017,Male,Nilesh Joshi,Master's Degree,Senior Engineer,Sonali Joshi,10th Grade Pass,Laborer,Hindi
+19759,Aarav Singh,13,19-07-2016,Male,Ravi Singh,12th Grade Pass,Receptionist,Ritu Singh,MBA,Project Manager,Hindi
+24123,Aayush Patel,14,02-11-2015,Male,Manish Patel,8th Grade Pass,Farmer,Maya Patel,8th Grade Pass,Housewife,Hindi
+26153,Lakshmi Reddy,15,12-03-2016,Female,Satish Reddy,8th Grade Pass,Farmer,Anu Reddy,Post Graduate,Researcher,Hindi
+26397,Karan Menon,16,05-04-2017,Male,Deepak Menon,12th Grade Pass,Salesperson,Rina Menon,Post Graduate,Researcher,Hindi
+34398,Isha Rao,17,09-09-2016,Female,Ashok Rao,10th Grade Pass,Storekeeper,Mala Rao,Master's Degree,Manager,Hindi
+36938,Kavya Menon,18,17-07-2015,Female,Vinod Menon,Bachelor's Degree,Accountant,Sunita Menon,10th Grade Pass,Laborer,Hindi
+37549,Radha Naik,19,30-01-2017,Female,Shankar Naik,Master's Degree,Manager,Geeta Naik,8th Grade Pass,Housewife,Hindi
+37820,Chaitali Singh,20,14-05-2016,Female,Rajiv Singh,8th Grade Pass,Farmer,Shweta Singh,10th Grade Pass,Storekeeper,Hindi
+39007,Yash Dubey,21,22-09-2015,Male,Harish Dubey,12th Grade Pass,Salesperson,Kiran Dubey,Bachelor's Degree,Accountant,Hindi
+39073,Uday Shah,22,08-11-2016,Male,Yogesh Shah,12th Grade Pass,Receptionist,Sneha Shah,12th Grade Pass,Receptionist,Hindi
+40272,Nikhil Sharma,23,01-08-2017,Male,Kunal Sharma,8th Grade Pass,Farmer,Pallavi Sharma,Diploma,Assistant,Hindi
+41143,Varun Rao,24,26-02-2016,Male,Amit Rao,Diploma,Technician,Rekha Rao,8th Grade Pass,Housewife,Hindi
+42273,Raghav Mishra,25,10-10-2015,Male,Gopal Mishra,8th Grade Pass,Farmer,Jyoti Mishra,8th Grade Pass,Housewife,Hindi
+43264,Manav Iyer,26,20-12-2016,Male,Kamal Iyer,Diploma,Assistant,Anitha Iyer,10th Grade Pass,Storekeeper,Hindi
+46509,Jay Desai,27,04-03-2017,Male,Suraj Desai,Master's Degree,Manager,Leena Desai,10th Grade Pass,Laborer,Hindi
+46786,Esha Gupta,28,28-08-2016,Female,Naveen Gupta,Master's Degree,Manager,Radhika Gupta,8th Grade Pass,Housewife,Hindi
+46857,Nisha Sharma,29,13-12-2015,Female,Sunil Sharma,8th Grade Pass,Farmer,Bhavna Sharma,Bachelor's Degree,Accountant,Hindi
+48564,Ananya Nair,30,03-02-2017,Female,Vikram Nair,Diploma,Technician,Sheetal Nair,Post Graduate,Researcher,Hindi
+51159,Avani Verma,31,17-10-2016,Female,Dinesh Verma,8th Grade Pass,Farmer,Komal Verma,Post Graduate,Professor,Hindi
+51613,Pooja Joshi,32,07-06-2017,Female,Hemant Joshi,12th Grade Pass,Salesperson,Anita Joshi,8th Grade Pass,Housewife,Hindi
+53062,Zain Singh,33,05-07-2016,Male,Ajay Singh,Bachelor's Degree,Accountant,Suman Singh,Post Graduate,Professor,Hindi
+56210,Ishaan Dutta,34,18-11-2015,Male,Pankaj Dutta,Post Graduate,Researcher,Ritu Dutta,10th Grade Pass,Laborer,Hindi
+56901,Tara Bhatt,35,29-03-2016,Female,Girish Bhatt,8th Grade Pass,Farmer,Smita Bhatt,Bachelor's Degree,Teacher,Hindi
+58890,Darsh Kapoor,36,20-04-2017,Male,Rohan Kapoor,10th Grade Pass,Laborer,Manisha Kapoor,8th Grade Pass,Housewife,Hindi
+63759,Aditya Nair,37,02-09-2016,Male,Bharat Nair,Bachelor's Degree,Teacher,Seema Nair,Diploma,Technician,Tamil
+64800,Samar Khan,38,08-07-2015,Male,Imran Khan,12th Grade Pass,Salesperson,Nazima Khan,10th Grade Pass,Storekeeper,Marathi
+66113,Uma Shah,39,22-01-2017,Female,Umesh Shah,8th Grade Pass,Farmer,Kamini Shah,Master's Degree,Manager,Gujarati
+67332,Maya Iyer,40,06-05-2016,Female,Narayan Iyer,Diploma,Technician,Neelam Iyer,Post Graduate,Researcher,Marathi
+70091,Rohan Naik,41,15-09-2015,Male,Rajeev Naik,Diploma,Assistant,Geeta Naik,8th Grade Pass,Housewife,Telgu
+72624,Shrey Mehta,42,01-11-2016,Male,Rajat Mehta,Bachelor's Degree,Teacher,Shruti Mehta,8th Grade Pass,Housewife,Telgu
+73174,Aaradhya Sharma,43,14-08-2017,Female,Piyush Sharma,10th Grade Pass,Storekeeper,Pooja Sharma,12th Grade Pass,Receptionist,Kannada
+73224,Vani Rao,44,09-02-2016,Female,Sameer Rao,Master's Degree,Senior Engineer,Anjali Rao,Bachelor's Degree,Teacher,Telgu
+73740,Aditi Verma,45,10-03-2017,Female,Manoj Verma,10th Grade Pass,Laborer,Rina Verma,10th Grade Pass,Laborer,Tamil
+77358,Amit Verma,46,03-12-2016,Male,Vijay Menon,Master's Degree,Senior Engineer,Sangeeta Menon,8th Grade Pass,Housewife,Tamil
+79966,Kavya Dubey,47,17-03-2017,Female,Sandeep Dubey,MBA,Business Analyst,Meghna Dubey,Bachelor's Degree,Accountant,Gujarati
+81301,Yamini Reddy,48,07-08-2016,Female,Krishna Reddy,Bachelor's Degree,Engineer,Shobha Reddy,10th Grade Pass,Storekeeper,Kannada
+81551,Krishna Sharma,49,21-12-2015,Male,Anand Sharma,Bachelor's Degree,Accountant,Meera Sharma,Post Graduate,Researcher,Gujarati
+81743,Rohan Patel,50,01-05-2016,Male,Mahesh Patel,12th Grade Pass,Receptionist,Kavita Patel,8th Grade Pass,Housewife,Tamil
+83276,Vishal Menon,51,11-11-2015,Male,Rakesh Menon,Diploma,Technician,Poonam Menon,12th Grade Pass,Receptionist,Tamil
+84234,Devika Sharma,52,29-01-2016,Female,Suresh Sharma,12th Grade Pass,Salesperson,Rakhi Sharma,8th Grade Pass,Housewife,Marathi
+84293,Arnav Singh,53,04-04-2017,Male,Ajay Singh,8th Grade Pass,Farmer,Suman Singh,8th Grade Pass,Housewife,Tamil
+86243,Naina Kapoor,54,13-07-2016,Female,Rajeev Kapoor,10th Grade Pass,Laborer,Neha Kapoor,Post Graduate,Professor,Kannada
+87171,Kiran Rao,55,22-08-2015,Male,Ashok Rao,8th Grade Pass,Farmer,Mala Rao,Diploma,Assistant,Marathi
+89478,Rahul Desai,56,03-03-2016,Male,Vinod Desai,MBA,Project Manager,Sunita Desai,10th Grade Pass,Storekeeper,Gujarati
+90029,Aryan Dubey,57,14-02-2017,Male,Vikram Dubey,8th Grade Pass,Farmer,Anita Dubey,Diploma,Assistant,Tamil
+93187,Ria Menon,58,09-06-2016,Female,Rajesh Menon,8th Grade Pass,Farmer,Anita Menon,Post Graduate,Professor,Gujarati
+93209,Meera Iyer,59,05-01-2017,Female,Kamal Iyer,Bachelor's Degree,Teacher,Lata Iyer,MBA,Project Manager,Tamil
+98134,Aman Joshi,60,27-12-2015,Male,Suraj Joshi,12th Grade Pass,Salesperson,Pooja Joshi,Master's Degree,Senior Engineer,Kannada

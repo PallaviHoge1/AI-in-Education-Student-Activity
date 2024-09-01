@@ -41,6 +41,7 @@ try:
                 os.makedirs(os.path.dirname(KEY_PATH), exist_ok=True)
                 with open(KEY_PATH, "wb") as key_file:
                     key_file.write(key) 
+            print(key)
             logging.info("Encryption key generated and saved successfully.")   
         except Exception as e:
             logging.error(f"Failed to generate key: {e}")    
@@ -69,6 +70,7 @@ try:
     def decrypt_password(encrypted_password: bytes) -> str:
         try:
             key = load_key()
+            logging.info(key)
             fernet = Fernet(key)
             decrypted_password = fernet.decrypt(encrypted_password).decode()
             logging.info("Password decrypted successfully.")
@@ -81,7 +83,7 @@ try:
         try:
             # Generate and write a new key (only run this once to create the key file)
             generate_key()
-
+            encryption_option = int(input("What do you want to encrypt? \n1. Db Password\n2. User Password\nType 1 or 2: "))
             password = input("Please input your password: ")
             encrypted = encrypt_password(password)
             print(f"Encrypted: {encrypted}")

@@ -1,0 +1,34 @@
+2024-09-01 10:14:50,180 - INFO - Encryption key loaded successfully.
+2024-09-01 10:14:50,198 - ERROR - Failed to decrypt password: 
+2024-09-01 10:16:24,963 - INFO - Encryption key loaded successfully.
+2024-09-01 10:16:24,964 - ERROR - Failed to decrypt password: 
+2024-09-01 10:17:02,994 - INFO - Encryption key loaded successfully.
+2024-09-01 10:17:02,994 - ERROR - Failed to decrypt password: 
+2024-09-01 10:17:19,905 - INFO - Encryption key loaded successfully.
+2024-09-01 10:17:19,905 - ERROR - Failed to decrypt password: 
+2024-09-01 10:18:19,497 - INFO - Encryption key loaded successfully.
+2024-09-01 10:18:19,498 - ERROR - Failed to decrypt password: 
+2024-09-01 10:23:58,653 - INFO - Encryption key loaded successfully.
+2024-09-01 10:23:58,653 - INFO - b'Myl4sUzEMEZ-X7QToBf9cYcefB73mS8ENR1qVP7iXzo='
+2024-09-01 10:23:58,654 - ERROR - Failed to decrypt password: 
+2024-09-01 10:28:59,896 - INFO - Encryption key generated and saved successfully.
+2024-09-01 10:29:04,599 - INFO - Encryption key loaded successfully.
+2024-09-01 10:29:04,607 - INFO - Password encrypted successfully.
+2024-09-01 10:29:04,608 - INFO - Encryption key loaded successfully.
+2024-09-01 10:29:04,608 - INFO - b'E8zAP1VkBwKuZnXVE6jEArX2vjj9TJNOySoYYB0WWoE='
+2024-09-01 10:29:04,608 - INFO - Password decrypted successfully.
+2024-09-01 10:29:25,652 - INFO - Encryption key generated and saved successfully.
+2024-09-01 10:29:29,986 - INFO - Encryption key loaded successfully.
+2024-09-01 10:29:29,988 - INFO - Password encrypted successfully.
+2024-09-01 10:29:29,989 - INFO - Encryption key loaded successfully.
+2024-09-01 10:29:29,989 - INFO - b'sQNBm5F7996yhp1QhwlrUTAXfPFS-s7Bho4itka4kq8='
+2024-09-01 10:29:29,989 - INFO - Password decrypted successfully.
+2024-09-01 10:33:38,873 - INFO - Encryption key generated and saved successfully.
+2024-09-01 10:33:44,981 - INFO - Encryption key loaded successfully.
+2024-09-01 10:33:44,983 - INFO - Password encrypted successfully.
+2024-09-01 10:33:44,984 - INFO - Encryption key loaded successfully.
+2024-09-01 10:33:44,984 - INFO - b'nQZYQqAHX9Ow1kbmefkoR8J4Eb4Np_gxfH6FivZyNk0='
+2024-09-01 10:33:44,984 - INFO - Password decrypted successfully.
+2024-09-01 10:34:31,770 - INFO - Encryption key loaded successfully.
+2024-09-01 10:34:31,770 - INFO - b'nQZYQqAHX9Ow1kbmefkoR8J4Eb4Np_gxfH6FivZyNk0='
+2024-09-01 10:34:31,770 - ERROR - Failed to decrypt password: 
